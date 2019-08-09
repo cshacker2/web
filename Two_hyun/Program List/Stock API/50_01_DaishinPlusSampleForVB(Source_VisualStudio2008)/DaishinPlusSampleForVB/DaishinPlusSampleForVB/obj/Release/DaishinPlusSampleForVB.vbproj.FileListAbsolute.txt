@@ -1,0 +1,5 @@
+C:\Users\cshacker\Desktop\OpenSource\Web\50_01_DaishinPlusSampleForVB(Source_VisualStudio2008)\DaishinPlusSampleForVB\DaishinPlusSampleForVB\obj\Release\Interop.CPSYSDIBLib.dll
+C:\Users\cshacker\Desktop\OpenSource\Web\50_01_DaishinPlusSampleForVB(Source_VisualStudio2008)\DaishinPlusSampleForVB\DaishinPlusSampleForVB\obj\Release\Interop.CPTRADELib.dll
+C:\Users\cshacker\Desktop\OpenSource\Web\50_01_DaishinPlusSampleForVB(Source_VisualStudio2008)\DaishinPlusSampleForVB\DaishinPlusSampleForVB\obj\Release\Interop.CPUTILLib.dll
+C:\Users\cshacker\Desktop\OpenSource\Web\50_01_DaishinPlusSampleForVB(Source_VisualStudio2008)\DaishinPlusSampleForVB\DaishinPlusSampleForVB\obj\Release\Interop.DSCBO1Lib.dll
+C:\Users\cshacker\Desktop\OpenSource\Web\50_01_DaishinPlusSampleForVB(Source_VisualStudio2008)\DaishinPlusSampleForVB\DaishinPlusSampleForVB\obj\Release\DaishinPlusSampleForVB.vbproj.ResolveComReference.cache
